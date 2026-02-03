@@ -1,17 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-### Our Lab Repo: [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
+## Our Lab Repo: [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
 
+## Our Papers
 ### CCGM Models
 - [Original CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
 - [Dual-NDA](https://github.com/UBCDingXin/Dual-NDA)
 - [CcGAN-AVAR](https://github.com/UBCDingXin/CcGAN-AVAR)
 - [CCDM and iCCDM](https://github.com/UBCDingXin/CCDM)
-
 ### Knowledge Distillation
 - [cGAN-KD](https://github.com/UBCDingXin/cGAN-KD)
 - [SOAP-KD](https://github.com/UBCDingXin/SOAP-KD)
-
 ### Subsampling Generative Models
 - [DRE-F-SP](https://github.com/UBCDingXin/DDRE_Sampling_GANs)
 - [cDR-RS](https://github.com/UBCDingXin/cDR-RS)
