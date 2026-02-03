@@ -13,8 +13,8 @@
 - [SOAP-KD](https://github.com/UBCDingXin/SOAP-KD)
 
 ### Subsampling Generative Models
-- DRE-F-SP
-- cDR-RS
+- [DRE-F-SP](https://github.com/UBCDingXin/DDRE_Sampling_GANs)
+- [cDR-RS](https://github.com/UBCDingXin/cDR-RS)
 
 
 <!--
