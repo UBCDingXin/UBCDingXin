@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubcdingxin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBCDingXin)](https://github.com/UBCDingXin/github-readme-stats)
 
 <!--
 **UBCDingXin/UBCDingXin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
