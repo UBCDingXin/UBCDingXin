@@ -4,7 +4,7 @@
 
 ## Our Papers
 ### CCGM Models
-- [Original CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
+- [CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
 - [Dual-NDA](https://github.com/UBCDingXin/Dual-NDA)
 - [CcGAN-AVAR](https://github.com/UBCDingXin/CcGAN-AVAR)
 - [CCDM and iCCDM](https://github.com/UBCDingXin/CCDM)
