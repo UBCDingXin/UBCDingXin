@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBCDingXin)
+![Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubcdingxin)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBCDingXin)](https://github.com/UBCDingXin/github-readme-stats)
 
