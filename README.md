@@ -9,8 +9,8 @@
 - [CCDM and iCCDM](https://github.com/UBCDingXin/CCDM)
 
 ### Knowledge Distillation
-- cGAN-KD
-- SOAP-KD
+- [cGAN-KD](https://github.com/UBCDingXin/cGAN-KD)
+- [SOAP-KD](https://github.com/UBCDingXin/SOAP-KD)
 
 ### Subsampling Generative Models
 - DRE-F-SP
