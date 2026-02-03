@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBCDingXin&hide=contribs,prs)
+Our Lab Repo: [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
 
 
 <!--
