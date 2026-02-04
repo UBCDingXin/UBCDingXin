@@ -1,6 +1,7 @@
 # Hi there 👋
 
-## Our Lab Repo: [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
+## Our Lab Repo
+[NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
 
 ## Our Papers
 ### CCGM Models
