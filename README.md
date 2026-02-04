@@ -1,9 +1,9 @@
 # Hi there 👋
 
-## Our Lab Repo
+## Our Lab Repository
 [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
 
-## Our Papers
+## My Papers
 ### CCGM Models
 - [CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
 - [Dual-NDA](https://github.com/UBCDingXin/Dual-NDA)
