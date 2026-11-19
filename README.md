@@ -4,6 +4,9 @@
 [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
 [NUIST-PGAI-Lab](https://github.com/nuist-pgai-lab)
 
+https://nuist-pgai-lab.github.io/zh/
+https://nuist-pgai-lab.github.io/en/
+
 ## My Papers
 ### CCGM Models
 - [CcGAN](https://github.com/UBCDingXin/improved_CcGAN)
