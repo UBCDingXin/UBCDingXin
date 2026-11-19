@@ -2,6 +2,7 @@
 
 ## Our Lab Repository
 [NUIST-GenAI-Lab](https://github.com/NUIST-GenAI-Lab)
+[NUIST-PGAI-Lab](https://github.com/nuist-pgai-lab)
 
 ## My Papers
 ### CCGM Models
